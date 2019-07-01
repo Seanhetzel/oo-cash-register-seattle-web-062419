@@ -6,6 +6,7 @@ class CashRegister
     @total = 0
     @discount = discount
     self.discount
+    self.total
   end
 
 
