@@ -8,8 +8,6 @@ class CashRegister
     self.discount
   end
 
-  def total
-    @total
-  end
+
 
 end
