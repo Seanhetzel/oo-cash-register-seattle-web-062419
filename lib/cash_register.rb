@@ -7,7 +7,7 @@ class CashRegister
     @discount = discount
   end
 
-  def discount_a
+  def discount_percent
     self.discount
   end
 
