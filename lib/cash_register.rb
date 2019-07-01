@@ -8,8 +8,8 @@ class CashRegister
     self.discount
   end
 
-  def discount_percent
-    self.discount
-  end
+  #def discount_percent
+  #  self.discount
+  #end
 
 end
